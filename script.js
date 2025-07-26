@@ -1,5 +1,5 @@
 //your code here!
-const list = document.getElementById('list');
+const list = document.getElementById('infi-list');
 let itemCount = 10;
 
 // Function to add list items
